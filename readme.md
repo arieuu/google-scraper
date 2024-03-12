@@ -21,3 +21,9 @@ Server will run on port 3000
 | :---------- | :--------- | :---------------------------------- |
 | `searchQuery` | `string` | **Mandatory**. This is the keyword the tool will use to search |
 
+# Example
+
+```
+localhost:3000/yellow pages
+```
+
